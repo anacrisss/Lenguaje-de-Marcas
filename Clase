@@ -1,14 +1,71 @@
-<html>
+<html lang="es">
+    <head>
+    </head>
 
-<head>
+    <body>
+        <a href="https://www.e-itaca.es" target="_blank">
+            Pincha aquí
+        </a>
+        <br>
+        <a href="https://www.e-itaca.es" target="_blank"
+             <img src="/RepositorioImagenes/logo-150.png">
+        </a>
+        <br>
+        <em>texto</em>
+        <s>texto2</s>
+        <strong>texto</strong>
+        <small>texto</small>
+        <hr>   
+
+
+        <form>
+            <label>¿Cual es tu nombre?</label>        
+            <input type= "text" placeholder="Inserta nombre"required>
+            <br>
+            <label>¿Cual es tu password?</label>        
+            <input type="password" placeholder="Inserta contraseña"required>
+            <br>   
+            <br> 
+            <input type= "datetime-local" placeholder="Inserta datetime"required>
+            <br> 
+            <br>     
+            <input type= "email" placeholder=" Inserta tu email"required>
+            <br> 
+            <br>     
+            <input type= "file" placeholder="Inserta tu imagen"required>
+            <br>
+            <br>
+            <button type="submit">ENVIAR</button>
+            <br>
+            <br>
+            <form>
+                <input type="radio" name="grupo">Opción1
+                <input type="radio" name="grupo">Opción2
+                <input type="radio" name="grupo">Opción3
+            </form>
+            <br>
+            <br>
+
+        <select name="select">
+            <option value="1"selected>Pack de videojuego</option>
+            <option value="2">Pack de libros</option>
+            <option value="3">Pack de pelis</option>
+        </select>
+        <br>
+        <br>
+        <input type="checkbox" > Esto es un checkbox 1
+        <input type="checkbox" > Esto es un checkbox 2
+        <input type="checkbox" > Esto es un checkbox 3
+        <br>
+        <br>
+        <footer>
+            sdasdgf
+        </footer>
 
 
 
-<body>
-    <a href="https://www.e-itaca.es/"> target= "_blank">Pincha aquí</a>
-</body>
-
-</head>
+        </form>
 
 
+    </body>
 </html>
