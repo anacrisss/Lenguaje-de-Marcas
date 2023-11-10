@@ -24,6 +24,24 @@ h3 {
     font-style: "Verdana";
     font-size: 30px;
     color:blueviolet;
-
-
   }
+
+  #imagen-llave {
+    border-style: solid;
+    border-color:brown;
+    border-width: 35px; /* comentario */
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-c
+
+  } 
+  #imagen-llave2 {
+    border-style: solid;
+    border-color:brown;
+    border-width: 35px; /* comentario */
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 10px;
+    
+  } 
