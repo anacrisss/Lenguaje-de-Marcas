@@ -1,0 +1,18 @@
+div{
+    max-width: 600px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+
+    border-radius: 8px;
+    border-style: solid;
+
+}
+
+body{
+    background-color: rgb(235, 196, 196);
+}
+
+.separacion{  /*es una class */
+
+}
